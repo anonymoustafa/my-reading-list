@@ -12,6 +12,9 @@
 6. Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
 7. DARWIN, TYE - LINUX FOR HACKERS_ LEARN CYBERSECURITY PRINCIPLES WITH SHELL,PYTHON,BASH PROGRAMMING USING KALI LINUX TOOLS. A COMPLETE GUIDE FOR BEGINNERS-GVS PUBLICATIONS (2020)
 8. Richard Blum_ Christine Bresnahan - Linux Command Line and Shell Scripting Bible-Wiley (2021)
+9. The Linux Command Line, 2nd edition (No Starch Press, 2019)
+10. UNIX for the Impatient, 2nd edition (Addison-Wesley Professional, 1995)
+11. Learning the UNIX Operating System, 5th edition (O’Reilly, 2001)
 
 ### Programming Languages
 
