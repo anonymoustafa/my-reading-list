@@ -2,6 +2,7 @@
 
 ### Computer Sciense
 * Brookshear - Computer Science, An Overview
+* Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
 
 ### System Programming
 1. Operating System Concepts, 10th edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne (Wiley, 2018)
@@ -41,3 +42,7 @@
 ### Miscellaneous 
 1. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 2. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
+
+## My Path
+1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
+2. Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
