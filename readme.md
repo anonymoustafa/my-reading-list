@@ -57,6 +57,10 @@
 1. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 2. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
 
+### Handy Tools
+1. Matt Cone - The Markdown Guide (2018)
+2. (The R Series) Yihui Xie, Joseph J. Allaire, Garrett Grolemund - R Markdown_ The Definitive Guide (conversion)-CRC Press (2019)
+
 
 ## My Path
 1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
