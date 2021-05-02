@@ -18,6 +18,7 @@
 9. The Linux Command Line, 2nd edition (No Starch Press, 2019)
 10. UNIX for the Impatient, 2nd edition (Addison-Wesley Professional, 1995)
 11. Learning the UNIX Operating System, 5th edition (O’Reilly, 2001)
+12. [Jargon File](http://www.catb.org/jargon/html/)
 
 ### Programming Languages
 
