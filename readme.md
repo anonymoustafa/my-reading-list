@@ -1,8 +1,10 @@
 # My Reading List
 
 ### Computer Sciense
-* Brookshear - Computer Science, An Overview
-* Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
+1. Brookshear - Computer Science, An Overview
+2. Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
+3. Introduction to Automata Theory, Languages, and Computation, 3rd edition, by Jeffrey Ullman and John Hopcroft (Prentice Hall, 2006)
+4. Mastering Regular Expressions, 3rd edition, by Jeffrey E. F. Friedl (O’Reilly, 2006)
 
 ### System Programming
 1. Operating System Concepts, 10th edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne (Wiley, 2018)
@@ -21,7 +23,8 @@
 
 #### C
 1. Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
-1. Donat, Wolfram - Jumpstarting C_ learn the programming language that lets you interface with your computer's hardware and memory-Maker Media (2018_2017)
+2. Donat, Wolfram - Jumpstarting C_ learn the programming language that lets you interface with your computer's hardware and memory-Maker Media (2018_2017)
+
 
 
 #### C++
@@ -51,6 +54,7 @@
 ### Miscellaneous 
 1. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 2. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
+
 
 ## My Path
 1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
