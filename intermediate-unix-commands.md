@@ -22,7 +22,7 @@
 19. Aassign a value to a shell variable: `$ STUFF=blah`
 ### Special Characters
 |Character|Name(s)|Uses|
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|:-----|
 |*| star, asterisk | Regular expression, glob character
 |. |dot | Current directory, file/hostname delimiter
 |! |bang |Negation, command history
