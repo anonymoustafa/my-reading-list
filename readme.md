@@ -20,8 +20,8 @@
 ### Programming Languages
 
 #### C
-* Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
-* Donat, Wolfram - Jumpstarting C_ learn the programming language that lets you interface with your computer's hardware and memory-Maker Media (2018_2017)
+1. Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
+1. Donat, Wolfram - Jumpstarting C_ learn the programming language that lets you interface with your computer's hardware and memory-Maker Media (2018_2017)
 
 
 #### C++
