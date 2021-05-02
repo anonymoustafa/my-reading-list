@@ -16,4 +16,5 @@
 16. `$ file file1`
 17. `$ find dir1 -name file1 -print` or `$ find . -name *???* -print`
 18. `$ tail /path-to-long-txt-file/file1` or `$ head /path-to-long-txt-file/file1`
-19. 
+19. Aassign a value to a shell variable: `$ STUFF=blah`
+20. 
