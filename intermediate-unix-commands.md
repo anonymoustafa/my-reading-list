@@ -1,3 +1,6 @@
+# Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
+## Abstract
+### Basic Commands
 1. `$ echo Hello there` or `$ echo *` or `$ echo *.*` or `$ echo *?????*`
 2. `$ cat /etc/passwd` or `$ cat /etc/passwd | less`
 3. `$ cat file1 file2 `
@@ -17,4 +20,17 @@
 17. `$ find dir1 -name file1 -print` or `$ find . -name *???* -print`
 18. `$ tail /path-to-long-txt-file/file1` or `$ head /path-to-long-txt-file/file1`
 19. Aassign a value to a shell variable: `$ STUFF=blah`
-20. 
+### Special Characters
+|Character|Name(s)|Uses|
+| ------------- |:-------------:| -----:|
+|*| star, asterisk | Regular expression, glob character
+|. |dot | Current directory, file/hostname delimiter
+|! |bang |Negation, command history
+|| |pipe |Command pipes
+|/ |(forward) slash |Directory delimiter, search command
+|\ |backslash |Literals, macros (never directories)
+|$ |dollar |Variables, end of line
+|' |tick, (single) quote |Literal strings
+|` |backtick, backquote |Command substitution
+|" |double quote |Semi-literal strings
+|^ |caret |Negation, beginning of line
