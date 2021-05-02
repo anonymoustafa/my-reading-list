@@ -34,3 +34,8 @@
 |` |backtick, backquote |Command substitution
 |" |double quote |Semi-literal strings
 |^ |caret |Negation, beginning of line
+|~ |tilde, squiggle |Negation, directory shortcut
+|# |hash, sharp, pound |Comments, preprocessor, substitutions
+|[ ] |(square) brackets |Ranges
+|{ }| braces, (curly) brackets |Statement blocks, ranges
+|_| underscore, under |Cheap substitute for a space used when spaces aren’t wanted or allowed, or when autocomplete algorithms get confused
