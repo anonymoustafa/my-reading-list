@@ -21,6 +21,7 @@
 18. `$ tail /path-to-long-txt-file/file1` or `$ head /path-to-long-txt-file/file1`
 19. Aassign a value to a shell variable: `$ STUFF=blah`
 ### Special Characters
+The following charachters names and application in Linux command line should be memorized by any decent Hacker!
 |Character|Name(s)|Uses|
 | ------------- |:-------------:|:-----|
 |*| star, asterisk | Regular expression, glob character
