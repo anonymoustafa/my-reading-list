@@ -61,6 +61,9 @@
 1. Matt Cone - The Markdown Guide (2018)
 2. (The R Series) Yihui Xie, Joseph J. Allaire, Garrett Grolemund - R Markdown_ The Definitive Guide (conversion)-CRC Press (2019)
 
+### Intersting and Informing
+1. [What was USENETs?](https://en.wikipedia.org/wiki/Usenet)
+
 
 ## My Path
 1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
