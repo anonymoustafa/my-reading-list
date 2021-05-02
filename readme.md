@@ -21,12 +21,21 @@
 
 #### C
 * Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
+* Donat, Wolfram - Jumpstarting C_ learn the programming language that lets you interface with your computer's hardware and memory-Maker Media (2018_2017)
+
+
 #### C++
 * Alex Allain - Jumping into C++ (PDF book with sample code)
+
+
 #### Go
 * Gobook
+
+
 #### JavaScript
 * Eloquent JavaScript, 3rd edition, by Marijn Haverbeke
+
+
 #### Rust-Lang
 1. Maxwell Flitton - Rust Web Programming_ A hands-on guide to developing fast and secure web apps with the Rust programming language-Packt Publishing (2021)
 2. Steve Klabnik, Carol Nichols - The Rust Programming Language (Covers Rust 2018)-No Starch Press (2019)
