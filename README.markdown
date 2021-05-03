@@ -18,6 +18,8 @@
 9. The Linux Command Line, 2nd edition (No Starch Press, 2019)
 10. UNIX for the Impatient, 2nd edition (Addison-Wesley Professional, 1995)
 11. Learning the UNIX Operating System, 5th edition (O’Reilly, 2001)
+12. [Jargon File](http://www.catb.org/jargon/html/)
+13. [Eric Raymonds Essays](http://www.catb.org/~esr/)
 
 ### Programming Languages
 
@@ -54,6 +56,13 @@
 ### Miscellaneous 
 1. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 2. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
+
+### Handy Tools
+1. Matt Cone - The Markdown Guide (2018)
+2. (The R Series) Yihui Xie, Joseph J. Allaire, Garrett Grolemund - R Markdown_ The Definitive Guide (conversion)-CRC Press (2019)
+
+### Intersting and Informing
+1. [What was USENETs?](https://en.wikipedia.org/wiki/Usenet)
 
 
 ## My Path
