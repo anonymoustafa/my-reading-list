@@ -20,6 +20,10 @@
 17. `$ find dir1 -name file1 -print` or `$ find . -name *???* -print`
 18. `$ tail /path-to-long-txt-file/file1` or `$ head /path-to-long-txt-file/file1`
 19. Aassign a value to a shell variable: `$ STUFF=blah`
+20. Searching all manual pages: `man -k keyword`
+
+
+
 ### Special Characters
 The following charachters names and application in Linux command line should be memorized by any decent Hacker!
 |Character|Name(s)|Uses|
