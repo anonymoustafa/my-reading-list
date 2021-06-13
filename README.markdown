@@ -5,6 +5,7 @@
 2. Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
 3. Introduction to Automata Theory, Languages, and Computation, 3rd edition, by Jeffrey Ullman and John Hopcroft (Prentice Hall, 2006)
 4. Mastering Regular Expressions, 3rd edition, by Jeffrey E. F. Friedl (O’Reilly, 2006)
+5. **[Very important list on reddit](https://www.reddit.com/r/learnprogramming/comments/8ukniw/books_that_changed_the_way_you_understand/)**
 
 ### System Programming
 1. Operating System Concepts, 10th edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne (Wiley, 2018)
