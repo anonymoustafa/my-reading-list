@@ -67,6 +67,7 @@
 
 ### Crypto, Singularity and Futuristic Reads
 1. [The price of tomorrow](http://libgen.li/ads.php?md5=b63d832ee81b9c6cd4ea45c349a7f80b)
+2. [JOHN MAYNARD KEYNES The General Theory of Employment, Interest and Money (1936)](http://library.lol/main/E2E02E246619315379833391477CED10)
 
 ## My Path
 1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
