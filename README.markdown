@@ -57,6 +57,7 @@
 ### Miscellaneous 
 1. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 2. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
+3. ~~Mark Manson - The Subtle Art of Not Giving a F*ck: _A Counterintuitive Approach to Living a Good Life_~~.
 
 ### Handy Tools
 1. Matt Cone - The Markdown Guide (2018)
@@ -76,3 +77,6 @@
 
 ## Where should I download my books?
 **[DOWNLOAD HERE](https://calibrecompanion.co/best-torrent-sites-for-books/)**
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
