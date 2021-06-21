@@ -24,6 +24,9 @@
 
 ### Programming Languages
 
+#### V
+[v references](vlang.io)
+
 #### C
 1. Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
 2. Donat, Wolfram - Jumpstarting C_ learn the programming language that lets you interface with your computer's hardware and memory-Maker Media (2018_2017)
@@ -54,9 +57,7 @@
 ### Network
 * Doug Lowe - Networking All-in-One For Dummies-For Dummies (2021)
 
-### Miscellaneous 
-1. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
-2. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
+### Selfdevelopment 
 3. ~~Mark Manson - The Subtle Art of Not Giving a F*ck: _A Counterintuitive Approach to Living a Good Life_~~. **`Done!`**
 
 ### Handy Tools
@@ -66,10 +67,13 @@
 ### OLD
 1. [What was USENETs?](https://en.wikipedia.org/wiki/Usenet)
 
-### Crypto, Singularity and Futuristic Reads
+### Crypto, Singularity, Great-Minds and Futuristic Reads
 1. [The price of tomorrow](http://libgen.li/ads.php?md5=b63d832ee81b9c6cd4ea45c349a7f80b)
 2. [JOHN MAYNARD KEYNES The General Theory of Employment, Interest and Money (1936)](http://library.lol/main/E2E02E246619315379833391477CED10)
 3. [John Maynard Keynes, Economic Possibilities for our Grandchildren (1930)](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
+4. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
+5. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
+
 
 ## My Path
 1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
