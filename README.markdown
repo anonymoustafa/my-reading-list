@@ -75,6 +75,7 @@
 4. Max Tegmark - Life 3.0_ Being Human in the Age of Artificial Intelligence-Alfred A. Knopf (2017)
 5. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 6. Economic Possibilities for Our Grandchildren.
+7. Principles for Navigating Big Debt Crises.
 
 
 ## My Path
