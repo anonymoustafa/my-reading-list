@@ -25,7 +25,7 @@
 ### Programming Languages
 
 #### V
-[v references](https://vlang.io/){:target="_blank"}
+[v references](https://vlang.io/)
 
 #### C
 1. Sri Manikanta Palakollu - Practical System Programming with C - Pragmatic Example Applications in Linux and Unix-Based Operating Systems.-Apress (2021)
