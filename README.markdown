@@ -76,8 +76,8 @@
 5. Eric S. Raymond - Cathedral and the Bazaar-Snowball Publishing (2010)
 6. Economic Possibilities for Our Grandchildren.
 7. Principles for Navigating Big Debt Crises.
-8. > Dent, Harry, S - Zero Hour-Schwartz Publishing Pty. Ltd
-> Dent, Harry, S - Zero Hour-Schwartz Publishing Pty. Ltd
+8. 1. Dent, Harry, S - Zero Hour-Schwartz Publishing Pty. Ltd
+
 
 
 ## My Path
