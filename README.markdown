@@ -79,6 +79,7 @@
 8. 1. Dent, Harry, S - Zero Hour-Schwartz Publishing Pty. Ltd
    2. Harry S. Dent Jr. - The Demographic Cliff  How to Survive and Prosper During the Great Deflation of 2014-2019-Portfolio Hardcover (2014)
    3. Harry S. Dent Jr. - What to Do When the Bubble Pops_ Personal and Business Strategies For The Coming Economic Winter-G&D Media (2020)
+9. To be continued...
 
 
 
