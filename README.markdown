@@ -7,6 +7,7 @@
 4. Mastering Regular Expressions, 3rd edition, by Jeffrey E. F. Friedl (O’Reilly, 2006)
 5. **[Very important list on reddit](https://www.reddit.com/r/learnprogramming/comments/8ukniw/books_that_changed_the_way_you_understand/)**
 6. J Clark Scott - _But How Do It Know_ - The Basic Principles of Computers for Everyone (2009, John C. Scott) - libgen.lc
+7. The Nature of Code; Daniel Shiffman.
 
 ### System Programming
 1. Operating System Concepts, 10th edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne (Wiley, 2018)
@@ -81,7 +82,9 @@
    3. Harry S. Dent Jr. - What to Do When the Bubble Pops_ Personal and Business Strategies For The Coming Economic Winter-G&D Media (2020)
 9. To be continued...
 
-
+### Jadi's Reads
+1. The Cuckoo's Egg.
+2. The Ultimate Star Wars and Philosophy: You Must Unlearn What You Have Learned (The Blackwell Philosophy and Pop Culture Series) 1st Edition.
 
 ## My Path
 1. Brian Ward - How Linux Works. What Every Superuser Should Know-no starch press (2021)
