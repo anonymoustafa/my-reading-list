@@ -80,7 +80,9 @@
 8. 1. Dent, Harry, S - Zero Hour-Schwartz Publishing Pty. Ltd
    2. Harry S. Dent Jr. - The Demographic Cliff  How to Survive and Prosper During the Great Deflation of 2014-2019-Portfolio Hardcover (2014)
    3. Harry S. Dent Jr. - What to Do When the Bubble Pops_ Personal and Business Strategies For The Coming Economic Winter-G&D Media (2020)
-9. To be continued...
+9. China's Fintech Explosion: Disruption, Innovation, and Survival
+10. FinTech For Dummies
+11. The AI Book: The Artificial Intelligence Handbook for Investors, Entrepreneurs and FinTech Visionaries
 
 ### Jadi's Reads
 1. The Cuckoo's Egg.
