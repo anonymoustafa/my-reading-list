@@ -46,6 +46,11 @@
 #### JavaScript
 * Eloquent JavaScript, 3rd edition, by Marijn Haverbeke
 
+#### Design
+1. Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages 2nd Edition by Elisabeth Robson (Author), Eric Freeman (Author)
+2. HTML and CSS: Design and Build Websites 1st Edition by Jon Duckett (Author)
+
+
 
 #### Rust-Lang
 1. Maxwell Flitton - Rust Web Programming_ A hands-on guide to developing fast and secure web apps with the Rust programming language-Packt Publishing (2021)
