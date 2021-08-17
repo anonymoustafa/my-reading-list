@@ -47,8 +47,8 @@
 * Gobook
 
 
-#### JavaScript
-* Eloquent JavaScript, 3rd edition, by Marijn Haverbeke
+#### JavaScript VERY IMPORTATN
+* [Eloquent JavaScript, 3rd edition, by Marijn Haverbeke](https://eloquentjavascript.net/)
 
 #### Design
 1. Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages 2nd Edition by Elisabeth Robson (Author), Eric Freeman (Author)
