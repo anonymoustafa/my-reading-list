@@ -1,5 +1,8 @@
 # My Reading List
 
+### Philosophy and Computer 
+1. Ellen Ullman, Close to the Machine: Technophilia and its Discontents.
+
 ### Computer Sciense
 1. Brookshear - Computer Science, An Overview
 2. Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
