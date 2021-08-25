@@ -27,6 +27,7 @@
 11. Learning the UNIX Operating System, 5th edition (O’Reilly, 2001)
 12. [Jargon File](http://www.catb.org/jargon/html/)
 13. [Eric Raymonds Essays](http://www.catb.org/~esr/)
+14. [LFS: Linux from scratch!](https://www.linuxfromscratch.org/)
 
 ### Programming Languages
 
