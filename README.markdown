@@ -12,6 +12,7 @@
 6. J Clark Scott - _But How Do It Know_ - The Basic Principles of Computers for Everyone (2009, John C. Scott) - libgen.lc
 7. The Nature of Code; Daniel Shiffman.
 8. Search HEAD FIRST Reiily and read as much as you can!
+9. [On COMPUTER NETWORKS](https://www.networkstraining.com/best-computer-networks-textbooks/)
 
 ### System Programming
 1. Operating System Concepts, 10th edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne (Wiley, 2018)
