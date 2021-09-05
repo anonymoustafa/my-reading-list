@@ -29,6 +29,8 @@
 12. [Jargon File](http://www.catb.org/jargon/html/)
 13. [Eric Raymonds Essays](http://www.catb.org/~esr/)
 14. [LFS: Linux from scratch!](https://www.linuxfromscratch.org/)
+15. How Transistors Work?
+16. 
 
 ### Programming Languages
 
@@ -79,6 +81,13 @@
 
 ### OLD
 1. [What was USENETs?](https://en.wikipedia.org/wiki/Usenet)
+
+### Philosophy & Science
+1. ~~Sapiens: A Brief History of Humankind. By Yuval Noah Harari~~
+2. ~~Brief Answers To The Big Questions.~~
+3. ~~Sophie's World.~~
+4. ~~Religion and Modern Era. By Dr. Abdolkarim Sorosh~~
+5. 
 
 ### Crypto, Singularity, Great-Minds and Futuristic Reads
 1. [The price of tomorrow](http://libgen.li/ads.php?md5=b63d832ee81b9c6cd4ea45c349a7f80b)
