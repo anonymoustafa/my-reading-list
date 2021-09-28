@@ -103,6 +103,7 @@
 9. China's Fintech Explosion: Disruption, Innovation, and Survival
 10. FinTech For Dummies
 11. The AI Book: The Artificial Intelligence Handbook for Investors, Entrepreneurs and FinTech Visionaries
+12. [World Population](https://ourworldindata.org/world-population-growth).
 
 ### Jadi's Reads
 1. The Cuckoo's Egg.
