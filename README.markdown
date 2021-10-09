@@ -66,6 +66,7 @@
 
 ### Programming Tools
 1. [Git-Cheat-Sheet.](https://training.github.com/downloads/github-git-cheat-sheet/)
+2. [Git quike reference](https://git-scm.com/docs)
 
 ### Blockchain
 1. Andreas M. Antonopoulos, Gavin Wood Ph. D. - Mastering Ethereum_ Building Smart Contracts and DApps-O’Reilly Media (2018)
