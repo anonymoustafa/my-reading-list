@@ -34,7 +34,7 @@
 
 ### Programming Languages
 
-#### V
+#### V (Very important and futuristic!)
 [v references](https://vlang.io/)
 
 #### C
@@ -63,6 +63,9 @@
 #### Rust-Lang
 1. Maxwell Flitton - Rust Web Programming_ A hands-on guide to developing fast and secure web apps with the Rust programming language-Packt Publishing (2021)
 2. Steve Klabnik, Carol Nichols - The Rust Programming Language (Covers Rust 2018)-No Starch Press (2019)
+
+### Programming Tools
+1. [Git-Cheat-Sheet.](https://training.github.com/downloads/github-git-cheat-sheet/)
 
 ### Blockchain
 1. Andreas M. Antonopoulos, Gavin Wood Ph. D. - Mastering Ethereum_ Building Smart Contracts and DApps-O’Reilly Media (2018)
