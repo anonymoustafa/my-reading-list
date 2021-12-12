@@ -21,6 +21,12 @@
 18. `$ tail /path-to-long-txt-file/file1` or `$ head /path-to-long-txt-file/file1`
 19. Aassign a value to a shell variable: `$ STUFF=blah`
 20. Searching all manual pages: `man -k keyword`
+21. find ~/ -name "**"
+22. echo "$USER"
+23. echo "$ROOT"
+24. crontab -l
+25. crontab -e
+26. 
 
 
 
