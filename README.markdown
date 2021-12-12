@@ -52,6 +52,8 @@
 
 
 #### JavaScript VERY IMPORTATN
+* Ethan Brown, LEarning JavaScript.
+* Ethan Brown, Web Development with Node and Express. Leveraging the JavaScript Stack. O'Reilly Media (2019).
 * [Eloquent JavaScript, 3rd edition, by Marijn Haverbeke](https://eloquentjavascript.net/)
 
 #### Design
