@@ -73,8 +73,9 @@
 2. Andreas M. Antonopoulos - Mastering Bitcoin_ P
 3. Antonopoulos, Andreas M - Mastering bitcoin_ programming the open blockchain-O'Reilly Media (2018_2017)
 
-### Network
+### Network and VPNs
 * Doug Lowe - Networking All-in-One For Dummies-For Dummies (2021)
+* [OpenVPN documentation](https://openvpn.net/community-resources/reference-manual-for-openvpn-2-4/)
 
 ### Selfdevelopment 
 3. ~~Mark Manson - The Subtle Art of Not Giving a F*ck: _A Counterintuitive Approach to Living a Good Life_~~. **`Done!`**
@@ -118,6 +119,7 @@
 2. Dylan Mach - COMPUTER PROGRAMMING FOR BEGINNERS_ 4 Books in 1. LINUX COMMAND-LINE + PYTHON Programming + NETWORKING + HACKING with KALI LINUX. Cybersecurity, Wireless, LTE, Networks, and Penetration Testing
 
 ## Where should I download my books?
-**[DOWNLOAD HERE](https://calibrecompanion.co/best-torrent-sites-for-books/)**
+* **[DOWNLOAD HERE](https://calibrecompanion.co/best-torrent-sites-for-books/)**
+* [libgen](libgen.is).
 
 
