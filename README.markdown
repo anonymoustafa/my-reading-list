@@ -3,7 +3,8 @@
 ### VIM (Things I must finish learning by 2022 Feb 01)
 1. Finish reading Arnold Robbins book.
 2. Watch this serie on YouTube: [click here](https://www.youtube.com/watch?v=ctH-a-1eUME&list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ)
-3. ...
+3. [Linux for hackers.](https://www.amazon.com/LINUX-HACKERS-CYBERSECURITY-PRINCIPLES-PROGRAMMING/dp/B08PJP5BZR)
+4. ...
 
 ### Philosophy and Computer 
 1. Ellen Ullman, Close to the Machine: Technophilia and its Discontents.
