@@ -61,7 +61,7 @@
 * Ethan Brown, Learning JavaScript.
 * Ethan Brown, Web Development with Node and Express. Leveraging the JavaScript Stack. O'Reilly Media (2019).
 * [Eloquent JavaScript, 3rd edition, by Marijn Haverbeke](https://eloquentjavascript.net/)
-* ~~ [JavaScript Handbook for beginners by Flavio Copes](https://flaviocopesbooks.fra1.digitaloceanspaces.com/javascript-beginner-handbook.pdf) ~~
+* ~~[JavaScript Handbook for beginners by Flavio Copes](https://flaviocopesbooks.fra1.digitaloceanspaces.com/javascript-beginner-handbook.pdf)~~ **`Done!`**
 
 #### Design
 1. Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages 2nd Edition by Elisabeth Robson (Author), Eric Freeman (Author)
