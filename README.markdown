@@ -133,4 +133,9 @@
 * [Flavio Copes](https://flaviocopes.com/page/ebooks-links/) **`Very Important!`**
 * [libgen](libgen.is).
 
+## My YouTube Ideas
+1. jalinux python vs nodejs performance.
+2. how did i install mongodb.
+3. 
+
 
